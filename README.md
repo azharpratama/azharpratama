@@ -1,16 +1,25 @@
-### Hi there 👋
+## Azhar Aditya Pratama
 
-<!--
-**azharpratama/azharpratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer & Web3 developer based in Surabaya, Indonesia.
+Building production systems and decentralized protocols @ ITS.
 
-Here are some ideas to get you started:
+```
+backend · web3 · data · systems
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working on**
+- [`josjiss-pos`](https://github.com/WarkopJosjiss/warkop-josjiss) — offline-first POS system for a real café (Next.js, Supabase, IndexedDB, Web Bluetooth)
+- [`t3t`](https://github.com/azharpratama/t3t) — terminal TUI client for T3 Code (Rust)
+
+**Things I've shipped**
+- [**Tenso**](https://github.com/azharpratama/tenso) — DePIN API marketplace; gasless crypto payments for AI agents via EIP-712 + x402 · *Top 6, PinGo DePIN Hackathon 2025*
+- [**EduLoan**](https://github.com/azharpratama/eduloan) — decentralized student lending on Mantle; 91% gas savings via custom errors, 25/25 tests
+- [**IDProperty**](https://github.com/azharpratama/idproperty) — real estate tokenization on Mantle; ERC-20 security tokens with KYC + AML compliance, 97 tests
+
+**Stack**
+`Python` `TypeScript` `Go` `Solidity` `SQL`
+`Node.js` `Next.js` `PostgreSQL` `Supabase` `Docker`
+`Hardhat` `Foundry` `Wagmi` `Viem`
+
+**Find me**
+[azhar.codes](https://azhar.codes) · [linkedin](https://linkedin.com/in/azharp) · [email](mailto:azharadityapratama48@gmail.com)
